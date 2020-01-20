@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![LinkedIn CA][linkedin-shield]][linkedin-url-1]
-[![LinkedIn CAJ][linkedin-shield]][linkedin-url-3]
+[![LinkedIn CAJ][linkedin-shield]][linkedin-url-2]
 
 
 
@@ -93,5 +93,5 @@ See the linkedIn shields in the top of the README.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url-1]: https://www.linkedin.com/in/cl%C3%A9ment-antheaume-9266a1171/
 [linkedin-url-2]: https://www.linkedin.com/in/camille-amaury-juge/
-[product-screenshot]: images/1.png
-[product-screenshot-2]: images/2.png
+[product-screenshot]: images/1.PNG
+[product-screenshot-2]: images/2.PNG
