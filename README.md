@@ -60,21 +60,55 @@ Here is a list of the Python library we used :
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
+* [Plotly](https://plot.ly/)
 * [Sklearn](https://scikit-learn.org/)
 
 
 <!-- USAGE EXAMPLES -->
 ## Content
 
-### TP1
+### TP1 : Naive Bayes, text preprocessing
 
-...
+Dataset : Users opinion (commentary and rate from 1 to 5) related to a course, see the csv file "/TP1/reviews_by_course.csv"
 
-### TP2 : Linear Regression
 
-Done
+Aim : 
 
-...
+* Open a CSV file from pandas.
+* Quickly explore data with basic pandas function.
+* Learn how to process words using two approach (bag of words (hot encoder), TF-IDF) using Sklearn.
+* Learn how to implements a Naive Bayes model (Multinomial) in order to predict classification (the rate of the user) using Sklearn.
+* Learn to adjust model parameters.
+* Learn how to calculate and read results indicators.
+* Learn how to draw line-chart, standard deviation-chart using Plotly.
+
+--> TF-IDF maybe need to be corrected (be careful about results)
+
+--> need to play with more parameters than alpha
+
+
+### TP2 : Linear Regression, Gradient Boosting Regression
+
+Dataset : 
+
+* Multivalued indicators related to candidate chances of admission, see the csv file "/TP2/admissiondata.csv"
+* Multivalued indicators related to house's environnement with their price, see [Load Boston](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
+
+
+Aim : 
+
+* Work with google colab, basic import functions and directory management.
+* Open a CSV file from pandas.
+* Quickly explore data with basic pandas function.
+* Pre-processing datas with pandas, numpy.
+* Learn how to understand Correlation Matrix (you can see an other repository nammed [Data Analysis Project](https://github.com/camilleAmaury/R_data_analysis_project) for more detailled statistics).
+* Learn how to implements a Linear Regression using Sklearn.
+* Learn how to calculate and read results indicators.
+* Learn how to implements a Gradient Boosting Regression using Sklearn.
+* Learn how to calculate and read results indicators.
+* Learn how to draw heathmap, scatterplot using Seaborn.
+* Learn how to draw barplot using Matplotlib.
+
 
 
 <!-- LICENSE -->
