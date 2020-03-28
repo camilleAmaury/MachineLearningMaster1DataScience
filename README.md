@@ -110,6 +110,51 @@ Aim :
 * Learn how to draw barplot using Matplotlib.
 
 
+### TP3 : Decision Tree
+
+Dataset : 
+
+* Multivalued indicators related to people's rating on movies, see the csv file "/TP3/movies.csv"
+
+Aim : 
+
+* Work with google colab, basic import functions and directory management.
+* Open a CSV file from pandas.
+* Quickly explore data with basic pandas function.
+* Pre-processing datas with pandas, numpy.
+* Learn how to understand Confusion Matrix.
+* Learn how to implements a Decision Tree using Sklearn.
+* Learn how to calculate and read results indicators.
+
+
+### DataMining - TP2 : Basic process of the machine learning
+
+Dataset : 
+
+* Multivalued indicators related to people's bank crediting, see the csv file "/DataMining/TP2/german.data"
+
+Aim : 
+
+* Work with google colab, basic import functions and directory management.
+* Open a CSV file from pandas.
+* Quickly explore data with basic pandas function.
+* Pre-processing datas with pandas, numpy.
+* Learn how to understand Confusion Matrix.
+* Learn how to implements a Decision Tree, Random Forest, KNN using Sklearn.
+* Learn how to implements a Grid Search in order to do fine-tuning.
+* Learn how to implements a Cross-Validation rather than simple validation.
+* Learn how to calculate and read results indicators.
+
+
+### Probabilist Model - Backward, Forward :
+
+Dataset : 
+
+see the file "/ProbabilisticModel/PM_Vitterbi_Forward_Backward.html"
+
+Aim : 
+
+* Implements Backward and Forward algorithm with python for PFA.
 
 <!-- LICENSE -->
 ## License
